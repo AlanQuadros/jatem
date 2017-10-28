@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="twitter_consumer_key" translatable="false">xB5MzbelxI7jtN7eYqNRbhYgq</string>
+    <string name="twitter_consumer_secret" translatable="false">HuRmr0rVWlMPbuRSP04bhH6Zv5eZRQ025zaFkf62inJwrMTn0c</string>
+    <string name="twitter_access_key" translatable="false">891140138499178496-SwGKhRnYmmzyWSUtMsfNGuWe68klDnk</string>
+    <string name="twitter_access_secret" translatable="false">tdn8yuomw2efvfdwHjzsNdjBFecVNqiFOXfsCq048TjWm</string>
+
+    <string name="facebook_app_id" translatable="false">1408778175857472</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1408778175857472</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967528374405",
+    "firebase_url": "https://jatem-966e0.firebaseio.com",
+    "project_id": "jatem-966e0",
+    "storage_bucket": "jatem-966e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967528374405:android:f719e130c06f7971",
+        "android_client_info": {
+          "package_name": "jatem.com.jatem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967528374405-d1r04g7dfujjafs5i7m3jek1kd8qh7fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jatem.com.jatem",
+            "certificate_hash": "7b458b0ca9d9a757b036a806ba2fccbfef5dd2c3"
+          }
+        },
+        {
+          "client_id": "967528374405-465044jviguadjoults2eb0c6jgfa3ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexkq2Yqj1Vqvbm8cWhURI8y0piEQmTTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967528374405-465044jviguadjoults2eb0c6jgfa3ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ja Tem</string>
+
+    <string name="loading" translatable="false">Loading…</string>
+    <string name="desc_firebase_lockup" translatable="false">Firebase logo and name</string>
+    <string name="twitter_title_text" translatable="false">Twitter Login</string>
+    <string name="signed_out" translatable="false">Signed Out</string>
+    <string name="sign_out" translatable="false">Sign Out</string>
+    <string name="twitter_status_fmt" translatable="false">Twitter User: %s</string>
+    <string name="firebase_status_fmt" translatable="false">Firebase User: %s</string>
+    <string name="hint_tip"><font size="13">Ex.: Fazer um campeonato mundial de futebol de botão</font></string>
+    <string name="logoff_text">Olá %s, \nclique aqui para sair</string>
+    <string name="searching">Procurando...</string>
+    <string name="appName">Já Tem?</string>
+    <string name="describe_idea">Descreva qual a sua ideia.</string>
+    <string name="be_specific">Seja o mais detalhista possível.</string>
+    <string name="hashtag_jatem">#JaTem</string>
+    <string name="txt_login">Escolha uma das opções para <b>Entrar</b></string>
+    <string name="authentication_error">Erro de autenticação.</string>
+    <string name="min_char">Mínimo 30 caracteres.</string>
+
+</resources>

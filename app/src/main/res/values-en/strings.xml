@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Already has</string>
+    <string name="appName">Already has?</string>
+    <string name="be_specific">Be the most specific as possible.</string>
+    <string name="describe_idea">Describe your idea.</string>
+    <string name="hint_tip"><font size="13">Ex: Making a World Cup Soccer Button</font></string>
+    <string name="logoff_text">Hello %s,\nclick here to logout</string>
+    <string name="searching">Searching...</string>
+    <string name="hashtag_jatem">#AlreadyHas</string>
+    <string name="txt_login">Choose one of the options for<b> Enter</b></string>
+    <string name="authentication_error">Authentication error.</string>
+    <string name="min_char">Minimum 30 characters.</string>
+</resources>
